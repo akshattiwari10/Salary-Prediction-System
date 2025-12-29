@@ -1,4 +1,9 @@
 # 💼 Salary Prediction System
+## 🌐 Live Demo
+
+👉 **Click here to try the live application:**  
+🔗 https://salary-prediction-system-12.streamlit.app/
+
 
 This is an end-to-end Machine Learning project that predicts salary based on personal and professional details.
 
